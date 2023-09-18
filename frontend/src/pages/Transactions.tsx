@@ -1,0 +1,7 @@
+import { FC } from "react";
+
+export const Transactions: FC = () => {
+  return <></>;
+};
+
+export default Transactions;
